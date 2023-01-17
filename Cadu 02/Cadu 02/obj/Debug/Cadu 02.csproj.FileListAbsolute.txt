@@ -1,0 +1,8 @@
+E:\Cadu Projetos\Cadu 02\Cadu 02\obj\Debug\Cadu 02.csproj.AssemblyReference.cache
+E:\Cadu Projetos\Cadu 02\Cadu 02\obj\Debug\Cadu 02.csproj.SuggestedBindingRedirects.cache
+E:\Cadu Projetos\Cadu 02\Cadu 02\obj\Debug\Cadu 02.csproj.CoreCompileInputs.cache
+E:\Cadu Projetos\Cadu 02\Cadu 02\bin\Debug\Cadu 02.exe.config
+E:\Cadu Projetos\Cadu 02\Cadu 02\bin\Debug\Cadu 02.exe
+E:\Cadu Projetos\Cadu 02\Cadu 02\bin\Debug\Cadu 02.pdb
+E:\Cadu Projetos\Cadu 02\Cadu 02\obj\Debug\Cadu 02.exe
+E:\Cadu Projetos\Cadu 02\Cadu 02\obj\Debug\Cadu 02.pdb
