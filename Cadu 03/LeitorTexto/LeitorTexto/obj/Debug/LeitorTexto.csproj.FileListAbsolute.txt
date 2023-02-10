@@ -1,0 +1,8 @@
+D:\Projetos-Cadu\Cadu 03\LeitorTexto\LeitorTexto\obj\Debug\LeitorTexto.csproj.AssemblyReference.cache
+D:\Projetos-Cadu\Cadu 03\LeitorTexto\LeitorTexto\obj\Debug\LeitorTexto.csproj.SuggestedBindingRedirects.cache
+D:\Projetos-Cadu\Cadu 03\LeitorTexto\LeitorTexto\obj\Debug\LeitorTexto.csproj.CoreCompileInputs.cache
+D:\Projetos-Cadu\Cadu 03\LeitorTexto\LeitorTexto\bin\Debug\LeitorTexto.exe.config
+D:\Projetos-Cadu\Cadu 03\LeitorTexto\LeitorTexto\bin\Debug\LeitorTexto.exe
+D:\Projetos-Cadu\Cadu 03\LeitorTexto\LeitorTexto\bin\Debug\LeitorTexto.pdb
+D:\Projetos-Cadu\Cadu 03\LeitorTexto\LeitorTexto\obj\Debug\LeitorTexto.exe
+D:\Projetos-Cadu\Cadu 03\LeitorTexto\LeitorTexto\obj\Debug\LeitorTexto.pdb
